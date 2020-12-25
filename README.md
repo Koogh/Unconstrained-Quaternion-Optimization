@@ -19,7 +19,7 @@ Generally, the 3D pose is represented as 1x7 vector, [tx, ty, tz, qw, qx, qy, qz
 
 
 ## Reference Paper
-
+'''
 @inproceedings{schmidt2001using,
   title={Using Quaternions for Parametrizing 3-D Rotations in Unconstrained Nonlinear Optimization.},
   author={Schmidt, Jochen and Niemann, Heinrich},
@@ -29,3 +29,4 @@ Generally, the 3D pose is represented as 1x7 vector, [tx, ty, tz, qw, qx, qy, qz
   year={2001},
   organization={Citeseer}
 }
+'''
