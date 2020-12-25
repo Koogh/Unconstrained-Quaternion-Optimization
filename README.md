@@ -8,14 +8,14 @@ Generally, the 3D pose is represented as 1x7 vector, [tx, ty, tz, qw, qx, qy, qz
 
 ## Requirement and Dependency
 
-Matlab 
-Optimization Toolbox (by Matlab)
-(cf. I have tested Matlab 2019 and  Matlab 2020)
+- Matlab 
+- Optimization Toolbox (by Matlab)
+(cf. I have tested Matlab 2019 and  Matlab 2020 )
 
 
 ## How to Use
 
-Run the 'Example_3d_pose_estimation.m'
+- Run (Press 'F5') the 'Example_3d_pose_estimation.m'
 
 
 ## Reference Paper
