@@ -1,4 +1,4 @@
-# Simple Example for 3D Relative Pose Estimation Using Two 3D Points
+# Simple Example for 3D Relative Pose Estimation Using Two 3D Point Sets
 
 This repository contains an example source code for estimating the 3D relative pose between two 3D point sets.
 The code is developed to help understanding the study (VMV, 2001) by  J.Schmidt and H. Niemann.
